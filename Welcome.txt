@@ -5,4 +5,15 @@ git
 Good Morning varadharajan how is going on today welcome to steps here
 =======
 welcome Varadharajan Git commands pull and push work how to do this 
+<<<<<<< HEAD
 >>>>>>> df289a3aab7f8395925fd35726f8a4cc9d66f7af
+=======
+yddddddddddddddddddd
+dfdfdsf
+ds
+fsd
+fsd
+f
+sd
+fsd
+>>>>>>> 4bf8baf31f2f00bacdf738dc9d49a6e2fb75a5d6
