@@ -14,8 +14,16 @@ Eighteen
 Nineteen
 Twenty
 Twnety one
+<<<<<<< HEAD
 Thirty one
 Thirty two
 Thirty Three
 Thirty Four
+=======
+Twnety Two
+Twnety Three
+Twnety Four
+Twnety Five
+Twnety Six
+>>>>>>> 194ebcca91474620484bca67029a12573ffb3d3d
 
