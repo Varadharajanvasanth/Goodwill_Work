@@ -1,22 +1,2 @@
 First
 Second
-Three
-Four
-Ten
-11
-12
-13
-14
-15
-Sixteen
-Seventeen
-Eighteen 
-
-<<<<<<< HEAD
-=======
-Varadharajan Deepa Moshika Krithika
->>>>>>> f345e21a3eac019a3bc51afdda7ff359ac92df5d
-Varadhan Varadhan
-Varadha Varadha
-=======
->>>>>>> 8f046e07eef18badc33677fdef0921090e5c979d
