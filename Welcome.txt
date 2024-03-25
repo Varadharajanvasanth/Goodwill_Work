@@ -1,4 +1,8 @@
 Hi Varadharajan 
 use git commdands
+<<<<<<< HEAD
 git
 Good Morning varadharajan how is going on today welcome to steps here
+=======
+welcome Varadharajan Git commands pull and push work how to do this 
+>>>>>>> df289a3aab7f8395925fd35726f8a4cc9d66f7af
